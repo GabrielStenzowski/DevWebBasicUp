@@ -1,0 +1,48 @@
+.caixa{
+    background-color: rgba(50.2%, 50.2%, 50.2%, 100%);
+    border-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 1100px;
+    text-align: justify;
+    color: white;
+    opacity: 80%;
+    padding-top: 5px;
+}
+h1{
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: .2em 2em;
+    float: right;    
+    }
+  
+nav ul li {
+    display: inline-block;
+    margin: 0;
+    padding: .2em .7em;    
+}
+
+.banner a{
+      text-decoration: none;
+      color: blue;
+}
+
+.banner{
+    background-image: url('../img/banner.jpg');
+    height: 450px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    background-color: white;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    padding-top: 50px;
+}
