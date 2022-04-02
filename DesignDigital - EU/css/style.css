@@ -1,3 +1,4 @@
+
 .caixa{
     background-color: rgba(50.2%, 50.2%, 50.2%, 100%);
     border-top: 30px;
@@ -45,4 +46,18 @@ header{
     display: grid;
     grid-template-columns: min-content 1fr;
     padding-top: 50px;
+}
+
+
+article{
+    display: inline-table;
+    margin: 50px auto;
+    width: 450px;
+    text-align: center;
+
+}
+
+.imagem-coluna{
+    width: 430px;
+
 }
