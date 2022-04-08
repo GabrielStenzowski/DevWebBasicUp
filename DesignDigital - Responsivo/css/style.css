@@ -2,7 +2,7 @@ body{
     font-family: 'roboto', sans-serif;
     line-height: 1.5;
     color: #444;
-    font-size: 62.5%; 
+    font-size: 62.5%; /* gambiarra */
 }
 
 *,*:before,*:after{
@@ -38,12 +38,12 @@ header{
 }
 
 .logo{
-    width: 234px;
+    width: 20.74%; /* 234px */
     float: left;
 }
 
 nav{
-    width: 840px;
+    width: 74.47%; /* 840px */
     float: right;
 }
 
@@ -52,9 +52,9 @@ nav ul{
 }
 
 nav li{
-    font-size: 12px;
-    margin-left: 20px;
-    margin-top: 10px;
+    font-size: 1.2em; /* 12px */
+    margin-left: 2.0em; /* 20px */
+    margin-top: 1.0em; /* 10px */
     display: inline-block;
 }
 
@@ -65,13 +65,13 @@ nav li a{
 .banner{
     background: url('../img/banner.jpg');
     height: 450px;
-    margin-bottom: 48px;
+    margin-bottom: 4.8em; /* 48px */
     position: relative;
 }
 
 .caixa{
     position: absolute;
-    top: 48px;
+    top: 4.8em; /* 48px */
     background: rgba(0, 0, 0, 0.6);
     width: 480px;
     padding: 24px 14px 24px 40px;
