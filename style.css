@@ -63,8 +63,18 @@ html, body{
 
 section.eu{
     position: relative;
-    transform: translateY(90%);
+    transform: translateY(20%);
 }
+
+section.eu img{
+    width: 15%;
+    border: 4px solid #214358;
+    border-radius: 50px;
+    margin-left: 20px;
+    
+}
+
+
 
 section.eu h2{
     color: #214358;
