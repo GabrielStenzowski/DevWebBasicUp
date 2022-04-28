@@ -112,3 +112,19 @@ section.eu p{
     line-height: 40px;
     
 }
+
+.fa-linkedin:hover{
+    color: blue;
+}
+
+.fa-whatsapp:hover{
+    color: green;
+}
+
+.fa-github:hover{
+    color: black;
+}
+
+.fa-twitter:hover{
+    color: aqua;
+}
