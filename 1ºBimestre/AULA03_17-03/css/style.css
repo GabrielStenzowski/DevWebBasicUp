@@ -1,0 +1,36 @@
+/* este é o css do meu site */
+
+body{
+	font-family: arial;
+	text-align: center;
+}
+
+/* Textos */
+h1{
+	font-family: arial;
+	font-size: 40pt;
+	background-color: #EBDE41;
+	padding: 30px;
+	margin: 30px;
+	color: #656060;
+	
+}
+
+p{
+	font-family: arial;
+}
+
+.destaque{
+	font-size: 45px;
+	font-weight: 200;
+	background-color: #524E4D;
+	color:	#EBDE41;
+}
+
+.pequeno{
+	font-size: 25px;
+	font-weight: 100;
+
+}
+
+
